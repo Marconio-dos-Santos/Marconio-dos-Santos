@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marconio-dos-Santos
-- 👀 I’m interested in Desenvolvedor Front-end
+- 👀 I’m interested in Desenvolvimento Front-end
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Projects Open-Source
 - 📫 How to reach me marconio.dev@gmail.com
